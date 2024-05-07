@@ -1,0 +1,9 @@
+.DS_Store
+db.sqlite3
+# база данных
+media/
+# папка медиа
+app/migrations
+# миграции
+__pycache__/
+# все папки __pycache__
